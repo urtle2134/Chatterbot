@@ -22,3 +22,9 @@ A friendly, motivational chatbot for Discord that:
 ```bash
 git clone https://github.com/yourname/motivational-discord-bot.git
 cd motivational-discord-bot
+pip install -r requirements.txt
+Create a .env file:
+DISCORD_TOKEN=your_bot_token
+WEATHER_API_KEY=your_openweather_api_key
+Run the bot
+python motivational_bot.py
