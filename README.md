@@ -18,8 +18,7 @@ A friendly, motivational chatbot for Discord that:
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repo
-```bash
+
 git clone https://github.com/yourname/motivational-discord-bot.git
 cd motivational-discord-bot
 pip install -r requirements.txt
