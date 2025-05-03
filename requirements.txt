@@ -1,0 +1,5 @@
+discord.py
+chatterbot==1.0.5
+chatterbot_corpus
+requests
+python-dotenv
