@@ -41,7 +41,7 @@ intents.messages = True
 client = discord.Client(intents=intents)
 
 channel_context = {}
-banned_words = ["badword1", "badword2"]
+banned_words = ["hate", "jealous"]
 auto_responses = {
     "how do i stay motivated": "Set small goals and celebrate your progress!",
     "help": "Try `!motivate`, `!joke`, or `!weather <city>` for some help!"
