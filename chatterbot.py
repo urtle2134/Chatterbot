@@ -8,8 +8,8 @@ from chatterbot.trainers import ChatterBotCorpusTrainer, ListTrainer
 
 # Load environment variables
 load_dotenv()
-DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
-WEATHER_API_KEY = os.getenv("WEATHER_API_KEY")
+DISCORD_TOKEN = os.getenv("MTM2ODc2NzI1OTc2MTE4MDY3Mg.G80tyJ.RUkhPf-9lQehJzgaPbmJ3loMWFKyTL8pdo64y8")
+WEATHER_API_KEY = os.getenv("894ee1265a1bd01ecefba659d4eee27c")
 
 # Setup chatbot with persistent storage
 chatbot = ChatBot(
